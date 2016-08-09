@@ -9,7 +9,7 @@ Converter of TypeScript definition files to Kotlin declarations (stubs)
 
 2. install dependencies
   ```shell
-  node install
+  npm install
   ```
 
 3. get submodules (https://github.com/DefinitelyTyped/DefinitelyTyped)
