@@ -1,5 +1,6 @@
 package escaping
 
+
 @native
 var `val`: Any = noImpl
 @native
